@@ -17,6 +17,7 @@ JavaFX enables us to design with Model-View-Controller (MVC), through the use of
  5. Database: MySQL Database. 
 
 **Results & Snapshots**
+
 ![Login Screen](https://raw.githubusercontent.com/rajrohit98/Dove/master/ss/1.png?token=AJ5AQLNASBT5GRXIDLLWZZS63N4FQ)
 
 ![Navigation Page](https://raw.githubusercontent.com/rajrohit98/Dove/master/ss/2.PNG?token=AJ5AQLM4OUDXCSQVDBU7P7S63N4KS)
