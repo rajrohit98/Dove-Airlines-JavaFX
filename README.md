@@ -18,9 +18,9 @@ JavaFX enables us to design with Model-View-Controller (MVC), through the use of
 
 **Results & Snapshots**
 
-![Login Screen](https://raw.githubusercontent.com/rajrohit98/Dove/master/ss/1.png?token=AJ5AQLNASBT5GRXIDLLWZZS63N4FQ)
+![Login](https://raw.githubusercontent.com/rajrohit98/Dove/master/ss/1.png?token=AJ5AQLJVJRAV5W5KXNZFZVS63N5MC)
 
-![Navigation Page](https://raw.githubusercontent.com/rajrohit98/Dove/master/ss/2.PNG?token=AJ5AQLM4OUDXCSQVDBU7P7S63N4KS)
+![Navigation](https://raw.githubusercontent.com/rajrohit98/Dove/master/ss/2.PNG?token=AJ5AQLNNWUJEK52QQTQVGKC63N5PQ)
 
 ![Booking Ticket](https://raw.githubusercontent.com/rajrohit98/Dove/master/ss/3.png?token=AJ5AQLIM3IXA4ZETEGNKOTS63N4RC)
 
