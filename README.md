@@ -22,7 +22,7 @@ JavaFX enables us to design with Model-View-Controller (MVC), through the use of
 
 ![Navigation](https://raw.githubusercontent.com/rajrohit98/Dove/master/ss/2.PNG?token=AJ5AQLNNWUJEK52QQTQVGKC63N5PQ)
 
-![Booking Ticket](https://raw.githubusercontent.com/rajrohit98/Dove/master/ss/3.png?token=AJ5AQLIM3IXA4ZETEGNKOTS63N4RC)
+![enter image description here](https://raw.githubusercontent.com/rajrohit98/Dove/master/ss/3.png?token=AJ5AQLMCEKZUXY366YMRGJC63N5VU)
 
 ![Booking Ticket](https://raw.githubusercontent.com/rajrohit98/Dove/master/ss/4.PNG?token=AJ5AQLP7SJ3YMCQWSKIGVTC63N4S2)
 
