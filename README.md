@@ -19,7 +19,6 @@ JavaFX enables us to design with Model-View-Controller (MVC), through the use of
 **Results & Snapshots**
 ![Login Screen](https://raw.githubusercontent.com/rajrohit98/Dove/master/ss/1.png?token=AJ5AQLNASBT5GRXIDLLWZZS63N4FQ)
 
-
 ![Navigation Page](https://raw.githubusercontent.com/rajrohit98/Dove/master/ss/2.PNG?token=AJ5AQLM4OUDXCSQVDBU7P7S63N4KS)
 
 ![Booking Ticket](https://raw.githubusercontent.com/rajrohit98/Dove/master/ss/3.png?token=AJ5AQLIM3IXA4ZETEGNKOTS63N4RC)
@@ -29,4 +28,5 @@ JavaFX enables us to design with Model-View-Controller (MVC), through the use of
 ![Plane Details](https://raw.githubusercontent.com/rajrohit98/Dove/master/ss/5.PNG?token=AJ5AQLLIHVFBYUNAWVPH7XK63N4US)
 
 **Conclusion**
+
 Implementing an employee desktop front end with native technology is a valid approach and that JavaFX is a good fit. • JavaFX is available on the leading desktop operating systems (Windows, Linux, and Mac OS X). • It is being used by an increasing number of Java developers. Regardless of its future, it will benefit from a strong developer community. • It provides a clear and clean architecture and features many enhancements: styling, event management, transitions, scene graph—to name a few. •It provides the possibility of developing up-to-date user interfaces with animations, multitouch, and the like. • It is based on a clear and clean language: Java. • It provides all the professional Java tools required to debug, analyze, profile, and logs a client application. • It enables a simple app-like installation on the client side, without any prerequisites. JavaFX is a good native UI environment that provides all these features today.
